@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrandCircusLab7", "GrandCircusLab7\GrandCircusLab7.csproj", "{8BEAA017-2447-4318-AA8C-847449510732}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BEAA017-2447-4318-AA8C-847449510732}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BEAA017-2447-4318-AA8C-847449510732}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BEAA017-2447-4318-AA8C-847449510732}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BEAA017-2447-4318-AA8C-847449510732}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A29D9411-E078-4392-B3A2-94DEDC2AEFEA}
+	EndGlobalSection
+EndGlobal
